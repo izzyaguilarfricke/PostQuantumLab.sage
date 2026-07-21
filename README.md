@@ -1,4 +1,4 @@
-# PostQuantumLab.sage
+# Post-Quantum Cryptography Visualization Tool
 # Learning With Errors (LWE) Visualization Tool
 
 Interactive SageMath visualization tool developed to support undergraduate instruction in post-quantum cryptography.
